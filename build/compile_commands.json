@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/sreeram/Projects/gameProgramming/game-engine-2d/build",
+  "command": "/usr/sbin/c++   -g -std=gnu++17 -o CMakeFiles/sfml-learning.dir/src/main.cpp.o -c /home/sreeram/Projects/gameProgramming/game-engine-2d/src/main.cpp",
+  "file": "/home/sreeram/Projects/gameProgramming/game-engine-2d/src/main.cpp",
+  "output": "CMakeFiles/sfml-learning.dir/src/main.cpp.o"
+}
+]
