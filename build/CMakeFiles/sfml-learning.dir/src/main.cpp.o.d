@@ -282,4 +282,4 @@ CMakeFiles/sfml-learning.dir/src/main.cpp.o: \
  /usr/include/SFML/System/MemoryInputStream.hpp \
  /usr/include/SFML/System/Sleep.hpp \
  /usr/include/SFML/System/TimeoutWithPredicate.hpp \
- /usr/include/SFML/System/Version.hpp
+ /usr/include/SFML/System/Version.hpp /usr/include/c++/16.1.1/iostream
